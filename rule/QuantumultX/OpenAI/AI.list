@@ -48,7 +48,6 @@ HOST-SUFFIX,launchdarkly.com,OpenAI
 HOST-SUFFIX,oaistatic.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
 HOST-SUFFIX,observeit.net,OpenAI
-HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
 HOST-SUFFIX,openaicom.imgix.net,OpenAI
 HOST-SUFFIX,segment.io,OpenAI
