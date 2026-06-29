@@ -4,10 +4,14 @@
 # UPDATED: 2025-06-06 09:20:01
 # HOST: 3
 # HOST-SUFFIX: 2
+# HOST-KEYWORD: 3
 # IP-CIDR: 0
-# TOTAL: 5
-HOST-SUFFIX,live-sai.com,1xbet
-HOST-SUFFIX,1xlite-02722.pro,1xbet
+# TOTAL: 8
 HOST,94.241.188.30,1xbet
 HOST,103.238.226.248,1xbet
 HOST,178.253.34.147,1xbet
+HOST-SUFFIX,live-sai.com,1xbet
+HOST-SUFFIX,1xlite-02722.pro,1xbet
+HOST-KEYWORD,1xlite,1xbet
+HOST-KEYWORD,sai.com,1xbet
+HOST-KEYWORD,live-sai,1xbet
