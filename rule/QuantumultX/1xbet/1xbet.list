@@ -1,0 +1,13 @@
+# NAME: 1xbet
+# AUTHOR: frankgoing
+# REPO: https://github.com/frankgoing/ios_rule_script
+# UPDATED: 2025-06-06 09:20:01
+# HOST: 3
+# HOST-SUFFIX: 2
+# IP-CIDR: 0
+# TOTAL: 5
+HOST-SUFFIX,live-sai.com,1xbet
+HOST-SUFFIX,1xlite-02722.pro,1xbet
+HOST,94.241.188.30,1xbet
+HOST,103.238.226.248,1xbet
+HOST,178.253.34.147,1xbet
